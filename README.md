@@ -5,7 +5,7 @@ jsp와 html을 융합하여 만든 쇼핑몰,게시판 사이트 입니다.
 ### 팀: 홍기환 (퍼블리셔)
 
 # Dependency
-eclipes - JSP
+eclipes - JSP <br>
 visual studio code - html 
 # Envirements
   ### 본 서비스 DB 정보<br>
