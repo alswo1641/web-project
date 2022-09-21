@@ -43,5 +43,5 @@ visual studio code - html
 * MariaDB-Dbeaver 툴을 이용해 mydb 생성
 * DB 데이터 삽입/출력
 * 로그인, 회원가입 기능 
-* 게시판 CRUD 
+* 게시판 CRUD 기능
 * html을 이용한 쇼핑몰 홈페이지
