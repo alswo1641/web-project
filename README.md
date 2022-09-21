@@ -4,6 +4,18 @@ jsp와 html을 융합하여 만든 쇼핑몰,게시판 사이트 입니다.
 ## 팀원: 권민재 (백엔드)
 ### 팀: 홍기환 (퍼블리셔)
 
+#Shop(Web)
+
+### 1. Main
+
+![KakaoTalk_20220921_144246925](https://user-images.githubusercontent.com/101167081/191423809-9107ce08-da3d-4465-888c-bd5f02084379.png)
+
+### 2.Login with database
+![KakaoTalk_20220921_144246925_01](https://user-images.githubusercontent.com/101167081/191423863-435ac250-b59e-4db7-b16a-2a46ff550257.jpg)
+
+### 3.BBS
+![KakaoTalk_20220921_144246925_02](https://user-images.githubusercontent.com/101167081/191423882-a6272f6d-a9a7-4598-9ce6-6f4450f8f32d.jpg)
+
 # Dependency
 eclipes - JSP <br>
 visual studio code - html 
