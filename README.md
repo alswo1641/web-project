@@ -4,7 +4,7 @@ jsp와 html을 융합하여 만든 쇼핑몰,게시판 사이트 입니다.
 ## 팀원: 권민재 (백엔드)
 ### 팀: 홍기환 (퍼블리셔)
 
-#Shop(Web) - with BootStrap
+# Shop(Web) - with BootStrap
 
 ### 1. Main
 ![KakaoTalk_20220921_144650945_01](https://user-images.githubusercontent.com/101167081/191424182-9b74ca82-6909-4ec1-acd5-ce6442fcd10c.jpg)
