@@ -21,7 +21,8 @@ jsp로 제작한 쇼핑몰,게시판 사이트 입니다.
 
 # Dependency
 eclipes - JSP <br>
-visual studio code - html 
+visual studio code - html <br>
+Dbeaver - DB
 # Envirements
   ### 본 서비스 DB 정보<br>
 * MYSQL_ORIGIN_MYSQL_DB_NAME=mydb
